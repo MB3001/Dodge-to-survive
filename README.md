@@ -9,3 +9,4 @@ It is built with JMonkeyEngine (http://jmonkeyengine.org/).
 
 For more information see: https://github.com/MB3001/UniVersor.
  
+Textures license: CC0 (see "TEXTURES_LICENSE.txt" in assets/Materials).
