@@ -3,7 +3,7 @@ Funny minigame about dodge evil balls. Created to test the ragdoll for my future
 
 You can play it by clicking "MyGame.jar" in "dist" folder.
 
-You can move the camera with 'ASDW' and the rag doll with 'IJLM'. Wiht 'K' you can jump and with 'U' you can fly. You close the program with "Esc" key. 
+You can move the camera with 'ASDW' and the rag doll with 'IJLM'. With 'K' you can jump and with 'U' you can fly. You close the program with "Esc" key. 
 
 It is built with JMonkeyEngine (http://jmonkeyengine.org/).
 
